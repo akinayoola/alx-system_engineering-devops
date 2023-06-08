@@ -18,3 +18,4 @@ task 11 is  a script that adds execute permission to all subdirectories of the c
 task 12 is a sceriot to make a directory and with permission 751.
 task 13 is a script to  changes the group owner to school for the file hello
 task 14 is a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+task 15 is a script that changes the owner and the group owner of _hello to vincent and staff respectively.
