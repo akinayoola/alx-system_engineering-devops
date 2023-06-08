@@ -16,4 +16,5 @@ task 9 is a script that sets the mode of the file hello to this
 task 10 is a script that sets the mode of the file hello the same as olleh’s mode.
 task 11 is  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 task 12 is a sceriot to make a directory and with permission 751.
-task 12 is a script to  changes the group owner to school for the file hello
+task 13 is a script to  changes the group owner to school for the file hello
+task 14 is a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
