@@ -6,7 +6,12 @@ task 3 is a script to change the owner of the file hello to the user betty.
 task 4 is a script to create an empty file
 task 5 is a script to adds execute permission to the owner of the file hello
 task 6 is a script to give execitable permission to group owner and read to other users
-tasj 7 is a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+tasj 7 is a script that adds execution permission to the owner, the group owner and the other users, to the file hell
+task 8 is a script that sets the permission to the file hello as follows:
+
+Owner: no permission at all
+Group: no permission at all
+Other users: all the permissionso
 task 10 is a script that sets the mode of the file hello the same as olleh’s mode.
 task 11 is  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 task 12 is a sceriot to make a directory and with permission 751.
