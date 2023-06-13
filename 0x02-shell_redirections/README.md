@@ -4,3 +4,4 @@ task 2 is a scriot to display the content of the /etc/passwd file
 task 3 is a script to Display the content of /etc/passwd and /etc/host
 task 4 is a script to 0x02-shell redirections
 task 5 is a script to Display the first 10 lines of /etc/passwd
+task 6 is a Write a script that displays the third line of the file iacta
