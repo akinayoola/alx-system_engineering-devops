@@ -13,3 +13,4 @@ task 10 is  a script that deletes all the regular files (not the directories) wi
 task 11 is a script that counts the number of directories and sub-directories in the current directory.
 task 12 is a script that displays the 10 newest files in the current directory.
 task 14 is a script to Display lines containing the pattern “root” from the file /etc/passwd
+task 15 is a script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
