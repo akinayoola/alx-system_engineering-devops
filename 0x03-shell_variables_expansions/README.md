@@ -14,3 +14,5 @@ task 8 is a script that prints the result of the addition of 128 with the value 
 task 9 is a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 task 14 is a script that converts a number from base 10 to base 16k
 task 2 is a script to Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+task 5 is  a script that lists all local variables and environment variables, and functions.
+
