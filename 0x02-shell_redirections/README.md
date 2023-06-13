@@ -16,4 +16,6 @@ task 14 is a script to Display lines containing the pattern “root” from the 
 task 15 is a script to Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 taske 16 is a script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 task 12 is a script that displays the 10 newest files in the current directory..
-k 7 is a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+k 7 is a shell script that creates a file named exactly  containing the text Best School ending by a new line.
+task 8 is  a script that writes into the file lcontent the result of the command ls -la. If the file ontent already exists, it should be overwritten. If the filcontent does not exist, create it.
+
