@@ -9,3 +9,4 @@ task 13 is a  script that prints a number with two decimal places, followed by a
 task 4 is a script that lists environment variables.
 task 3 is a script that counts the number of directories in the PATH
 task 6 is a script that creates a new local variable..
+task 7 is a script that creates a new global variable.
