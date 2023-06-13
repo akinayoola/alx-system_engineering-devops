@@ -6,4 +6,5 @@ task 10 is a script that displays the result of BREATH to the power LOVE.
 task 11 is a script that converts a number from base 2 to base 10.
 task 12 is a script that prints all possible combinations of two letters, except oo.
 task 13 is a  script that prints a number with two decimal places, followed by a new line.
- 
+task 4 is a script that lists environment variables.
+
