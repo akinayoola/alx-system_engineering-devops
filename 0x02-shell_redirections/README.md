@@ -19,4 +19,5 @@ task 12 is a script that displays the 10 newest files in the current directory..
 k 7 is a shell script that creates a file named exactly  containing the text Best School ending by a new line.
 task 8 is  a script that writes into the file lcontent the result of the command ls -la. If the file ontent already exists, it should be overwritten. If the filcontent does not exist, create it.
 task 20 is a script that removes all letters c and C from input.
+task 21 is a script that reverse its input.
 
