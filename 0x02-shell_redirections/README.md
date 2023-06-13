@@ -8,3 +8,4 @@ task 6 is a Write a script that displays the third line of the file iact
 task 17 is a script to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 task 16 is a script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 task 18 is a script to Display all lines of the file /etc/ssh/sshdconfig starting with a letter.
+task 19 is a script to Replace all characters A and c from input to Z and e respectively.
